@@ -1,0 +1,22 @@
+# MATLAB
+*.asv
+*.mex*
+*.mat
+*.fig
+*.slxc
+*.slx
+*.autosave
+*.mdl
+*.mltbx
+*.p
+*.mexw64
+*.mexmaci64
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Results / cache
+results/
+*.csv
+*.log
