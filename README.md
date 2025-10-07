@@ -57,12 +57,6 @@ Edit the **Experiment Parameters** section at the top of `rlnc_kaspa_ibd_demo.m`
 - `LICENSE` — MIT.
 - `.gitignore` — ignores MATLAB autosaves, binaries, and generated results.
 
-## Cite / Showcase
-
-When you share the repo link on X/Discord/GitHub:
-- Paste a one‑liner result (e.g., “RLNC saved **42% bytes** and **35% time** vs blk‑full in this run”).  
-- Attach the two CSVs and a screenshot of your terminal output if you want quick visual impact.
-
 ## Notes
 
 - This is a pure simulation (no Kaspa node integration).
