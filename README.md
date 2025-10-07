@@ -48,6 +48,11 @@ Edit the **Experiment Parameters** section at the top of `rlnc_kaspa_ibd_demo.m`
 - sliding window size/stride
 - link bandwidth / RTT model
 
+<p align="center">
+  <img src="imgs/RLNC_IBD_Demo.png" alt="RLNC demo console output" width="900">
+  <br><em>Figure: RLNC demo console output (seed=42)</em>
+</p>
+
 ## Files
 
 - `rlnc_kaspa_ibd_demo.m` — main simulation (your provided script; lightly wrapped for repo).
